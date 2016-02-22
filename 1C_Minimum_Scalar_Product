@@ -1,4 +1,4 @@
-Problem
+Problem: 1C Minimum Scalar Product
 
 You are given two vectors v1=(x1,x2,...,xn) and v2=(y1,y2,...,yn). The scalar product of these vectors is a single number, calculated as x1y1+x2y2+...+xnyn.
 
